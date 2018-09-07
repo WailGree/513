@@ -1,5 +1,5 @@
 body{
-  background-image:index.jpeg;
+  background-image:url("index.jpeg");
 }
 p.p1{
 font-color:#ff0000;
