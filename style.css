@@ -14,3 +14,11 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+a:link, a:visited {
+    color: (#ff0000);
+    text-decoration: underline;
+    cursor: auto;
+}
+a:link:active, a:visited:active {
+    color: (#8b0000);
+}
